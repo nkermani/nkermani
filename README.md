@@ -20,8 +20,6 @@
 
 ---
 
----
-
 ### 🚀 Featured Research & Development
 
 <!-- 
@@ -64,7 +62,3 @@ Uncomment these as projects reach MVP status.
 *   **Systems:** MLOps pipelines and distributed training architectures.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nkermani&show_icons=true&theme=transparent&hide_border=true" height="150" />
-</p>
