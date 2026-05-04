@@ -5,7 +5,7 @@
 > Status: Seeking 2026 Internship Opportunities  
 
 <!-- [Portfolio](https://nkermani.github.io) / -->
-[LinkedIn](https://linkedin.com/in/nathan-kermani) / [Email](mailto:nathan.kermani.dev@gmail.com)
+[LinkedIn](https://linkedin.com/in/nathan-kermani) / [Email](mailto:kermani.nathan@gmail.com)
 
 ---
 
